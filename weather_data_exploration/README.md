@@ -45,4 +45,3 @@ Lastly, you can avoid including special characters by adding backslash before th
     2. Use pip freeze > requirements.txt to save virtual environment package 
     3. Use .gitignore to avoid uploading package data on github
     4. Write [README.md](http://README.md) markdown for future readers to understand the code
-
